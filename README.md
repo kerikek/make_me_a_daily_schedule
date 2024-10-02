@@ -2,8 +2,9 @@
 
 This is a schedule where you can put in the tasks you want to complete, how long you want to spend on them, and what time of day you want to start them in.
 
-Project Title: the name of your project
-Description: This is an extremely important component of the README. You should describe the main purpose of your project. Answer questions like “why did you build this project?” and “what problem(s) does it solve?”. It also helps to include your motivations for the project and what you learned from it.
+Project Title: Make Me a Daily Schedule
+Description: This project is to take imputs of the tasks that need to get done in a day and gives a schedule of how to complete them. It helps to organize one's day to complete everything that needs to get done by the end of the day. 
+
 Features: If your project has multiple features, list them here. Don’t be afraid to brag if your project has unique features that make it stand out. You can even add screenshots and gifs to show off the features.
 How to use: Here, you should write step-by-step instructions on how to install and use your project. Any software or package requirements should also be listed here.
 Technologies: List all the technologies and/or frameworks you used and what purpose they serve in your project.
